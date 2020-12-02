@@ -27,5 +27,5 @@ steps:
     apikey: 
       from_secret: harness_secret
     body: |
-      updatedthedro4ne
+      drone-starter-mk1
 
