@@ -27,5 +27,5 @@ steps:
     apikey: 
       from_secret: harness_secret
     body: |
-      drone-starter-mk47
+      drone-starter-mk2
 
